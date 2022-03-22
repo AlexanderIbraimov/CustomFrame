@@ -9,3 +9,6 @@ Paste this code into xaml view
         
 </CustomFrame>
 ```
+
+### Screen
+![](https://github.com/AlexanderIbraimov/CustomFrame/blob/fe643e4982b346e67c4b4ba5a72f4c37ae4359d9/Images/screen.png)
